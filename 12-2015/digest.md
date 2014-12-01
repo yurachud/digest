@@ -11,7 +11,7 @@ This is a news pack for LatCraft community members comprising of the most import
 
 ## Global News
 
-CoreOS feels Docker's process model is fundamentally flawed and launches Rocket [More](utm_content=buffer9a56f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+CoreOS feels Docker's process model is fundamentally flawed and launches Rocket. [Read](utm_content=buffer9a56f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 
@@ -19,7 +19,9 @@ CoreOS feels Docker's process model is fundamentally flawed and launches Rocket 
 
 ## Where 2 Go
 
-[Riga Dev Day](http://rigadevday.lv/), January 2015
+[LatCraft](http://latcraft.lv), 06.01.2015
+
+[Riga Dev Day](http://rigadevday.lv/), 22.01.2015
 
 ## Jobs
 
