@@ -3,29 +3,31 @@ Hei {{Name}}!
 This is a news pack for LatCraft community members comprising of the most important last-month happenings and upcoming events. Enjoy!
 
 
-## Entertainment 
+# Entertainment 
 
 [How to get things done](sideproject.jpg)
 
-## Local News
+# Local News
 
-## Global News
+# Global News
 
 CoreOS feels Docker's process model is fundamentally flawed and launches Rocket. [Read](utm_content=buffer9a56f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 
-## Curious and Useful
+# Curious and Useful
 
-## Where 2 Go
+# Where 2 Go
 
-[LatCraft](http://latcraft.lv), 06.01.2015
+### ![](lv_flag.png) [LatCraft](http://latcraft.lv), 06.01.2015
 
-[Riga Dev Day](http://rigadevday.lv/), 22.01.2015
+### ![](lv_flag.png) [Riga Dev Day](http://rigadevday.lv/), 22.01.2015
 
-## Jobs
+### ![](lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
 
-[**Ask.fm**](http://ask.fm/) is looking for
+# Jobs
+
+## [**Ask.fm**](http://ask.fm/) is looking for
 
 - [Senior Android Developer](http://www.likeit.lv/job/askfm/senior-android-developer/3363/?search=ask.fm)
 - [Senior Java Developer](http://www.likeit.lv/job/askfm/senior-java-developer/3359/?search=ask.fm)
