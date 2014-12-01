@@ -1,6 +1,6 @@
 Hei {{Name}}!
 
-This is a news pack for LatCraft community members comprising of the most important last-month happenings and upcoming events. Enjoy!
+This is a news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
 
 
 # Entertainment 
