@@ -22,9 +22,9 @@ Mesos + Docker Tutorial: How to Build Your Own Framework. [**Read**](https://www
 
 # Where 2 Go
 
-### ![](lv_flag.png) [LatCraft](http://latcraft.lv), 06.01.2015
+### ![](lv_flag.png) [LatCraft](http://latcraft.lv) 06.01.2015
 
-### ![](lv_flag.png) [Riga Dev Day](http://rigadevday.lv/), 22.01.2015
+### ![](lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
 
 ### ![](lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
 
