@@ -20,6 +20,9 @@ CoreOS feels Docker's process model is fundamentally flawed and launches Rocket.
 
 
 # Curious and Useful
+
+JavaScript Beyond the Web in 2014. [**Read**](http://www.sitepoint.com/javascript-beyond-web-2014/)
+
 Natural Course of Refactoring – a Refactoring Workflow. [**Read**](http://www.infoq.com/articles/natural-course-refactoring)
 
 Mesos + Docker Tutorial: How to Build Your Own Framework. [**Read**](https://www.voxxed.com/blog/2014/12/mesos-docker-tutorial-how-to-build-your-own-framework/)
