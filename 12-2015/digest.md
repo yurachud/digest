@@ -7,6 +7,10 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 [How to get things done](sideproject.jpg)
 
+[Redundancy](http://devopsreactions.tumblr.com/post/102352504591/redundancy)
+
+[Writing Reports](http://devopsreactions.tumblr.com/post/103112947873/writing-reports)
+
 # Local News
 
 # Global News
