@@ -20,6 +20,8 @@ Natural Course of Refactoring – a Refactoring Workflow. [**Read**](http://www.
 
 Mesos + Docker Tutorial: How to Build Your Own Framework. [**Read**](https://www.voxxed.com/blog/2014/12/mesos-docker-tutorial-how-to-build-your-own-framework/)
 
+Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowler.com/articles/microservice-testing)
+
 # Where 2 Go
 
 ### ![](lv_flag.png) [LatCraft](http://latcraft.lv) 06.01.2015
