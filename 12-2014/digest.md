@@ -53,6 +53,8 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 - [Front-End Developer](http://www.likeit.lv/job/askfm/front-end-developer/3361/?search=ask.fm)
 - [QA Automation Engineer](http://www.likeit.lv/job/askfm/automation-qa-engineer/3362/?search=ask.fm)
 
+## [**4finance**](http://www.4financeit.com) is looking for
+- [System Engineer (DevOps)](http://www.likeit.lv/job/as-4finance/system-engineer-devops/3407/?search=4finance)
 
 
 ---
