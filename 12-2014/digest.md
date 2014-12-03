@@ -11,11 +11,13 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 [Writing Reports](http://devopsreactions.tumblr.com/post/103112947873/writing-reports)
 
-# Local News
 
-# Global News
+# News
 
 CoreOS feels Docker's process model is fundamentally flawed and launches Rocket. [**Read**](utm_content=buffer9a56f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+Java Inventor James Gosling joins Jelastic!
+[**Read**](http://jelastic.com/java-rock-stars-james-gosling-bruno-souza-jump-aboard-jelastic-train/)
 
 
 
