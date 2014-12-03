@@ -41,7 +41,7 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 
 ### ![](lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
 
-### ![](lv_flag.png) [TechChill Baltics 2015](http://tcbaltics.com/)
+### ![](lv_flag.png) [TechChill Baltics 2015](http://tcbaltics.com/) 10.02.2015
 
 # Jobs
 
