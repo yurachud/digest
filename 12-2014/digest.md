@@ -11,6 +11,8 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 [Writing Reports](http://devopsreactions.tumblr.com/post/103112947873/writing-reports)
 
+[Manager-Snowflake](http://www.slideshare.net/SlavaPankratov/ss-535501)
+
 
 # News
 
@@ -38,6 +40,8 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 ### ![](lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
 
 ### ![](lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
+
+### ![](lv_flag.png) [TechChill Baltics 2015](http://tcbaltics.com/)
 
 # Jobs
 
