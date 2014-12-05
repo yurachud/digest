@@ -33,13 +33,15 @@ if (!sgPassword) {
 	throw new IllegalStateException("Please SendGrid password with -DsgPassword arg")
 }
 
+realMode = System.getProperty("realMode", false)
+
 def markdownTemplate = new File("$date/digest.md")
 def html = new Markdown4jProcessor().process(markdownTemplate)
 
 def sendgrid = new SendGrid("latcraft", sgPassword)
 def mailSender = { recipient ->
 		def email = new SendGrid.Email(
-			to: [ "eduards.sizovs@gmail.com" ], 
+			to: [ realMode ? recipient.email : "eduards.sizovs@gmail.com" ], 
 			from: "digest@latcraft.lv",
 			fromName: "LatCraft Digest",
 			subject: "Monthly Digest",
@@ -100,7 +102,7 @@ def getAttendees(eventId) {
 getEventIds()
 	.flatMap { eventId -> getAttendees(eventId) } 
 	.distinct { it.email }
-	.take(1) // !!!
+	.take(realMode ? 999999999 : 1) 
 	.subscribe mailSender
 
 
