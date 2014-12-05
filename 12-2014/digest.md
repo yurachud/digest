@@ -1,4 +1,4 @@
-Hei {{Name}}!
+Hei userName!
 
 This is a news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
 
@@ -40,13 +40,13 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 
 # Where 2 Go
 
-### ![](lv_flag.png) [LatCraft](http://latcraft.lv) 06.01.2015
+### ![](pixies/lv_flag.png) [LatCraft](http://latcraft.lv) 06.01.2015
 
-### ![](lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
+### ![](pixies/lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
 
-### ![](lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
+### ![](pixies/lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
 
-### ![](lv_flag.png) [TechChill Baltics 2015](http://tcbaltics.com/) 10.02.2015
+### ![](pixies/lv_flag.png) [TechChill Baltics 2015](http://tcbaltics.com/) 10.02.2015
 
 # Jobs
 
@@ -66,4 +66,4 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 ---
 ### **Always yours,**
 
-![](latcraft.png)
+![](pixies/latcraft.png)
