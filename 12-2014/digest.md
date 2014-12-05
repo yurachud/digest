@@ -21,11 +21,16 @@ CoreOS feels Docker's process model is fundamentally flawed and launches Rocket.
 Java Inventor James Gosling joins Jelastic!
 [**Read**](http://jelastic.com/java-rock-stars-james-gosling-bruno-souza-jump-aboard-jelastic-train/)
 
+GridGain Becomes Apache Ignite. [**Read**](http://www.infoq.com/news/2014/12/gridgain-ignite)
+
 
 
 # Curious and Useful
 
 JavaScript Beyond the Web in 2014. [**Read**](http://www.sitepoint.com/javascript-beyond-web-2014/)
+
+Express.js burned Netflix. [**Read**](http://www.infoq.com/news/2014/12/expressjs-burned-netflix)
+
 
 Natural Course of Refactoring – a Refactoring Workflow. [**Read**](http://www.infoq.com/articles/natural-course-refactoring)
 
@@ -54,8 +59,9 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 - [QA Automation Engineer](http://www.likeit.lv/job/askfm/automation-qa-engineer/3362/?search=ask.fm)
 
 ## [**4finance**](http://www.4financeit.com) is looking for
-- [System Engineer (DevOps)](http://www.likeit.lv/job/as-4finance/system-engineer-devops/3407/?search=4finance)
-
+- [System Engineer (DevOps)](https://4finance.recruiterbox.com/jobs/fk0y2a/)
+- [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
+- [Helpdesk Specialist](https://4finance.recruiterbox.com/jobs/fk0y2e/)
 
 ---
 ### **Always yours,**
