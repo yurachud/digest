@@ -51,7 +51,7 @@ def getEventIds() {
   observable = Observable
   .create { observer ->
     try {
-    	eventbrite = new HTTPBuilder( 'https://www.eventbrite.com')
+    	eventbrite = new HTTPBuilder('https://www.eventbrite.com')
 		eventbrite.request( GET, JSON ) {
 		  uri.path = '/json/user_list_events'
 		  uri.query = [ user_key: enUser, app_key: enApp, only_display: 'id' ]
@@ -72,7 +72,7 @@ def getAttendees(eventId) {
   observable = Observable
   .create { observer ->
     try {
-    	eventbrite = new HTTPBuilder( 'https://www.eventbrite.com' )
+    	eventbrite = new HTTPBuilder('https://www.eventbrite.com')
 		eventbrite.request( GET, JSON ) {
 		  uri.path = '/json/event_list_attendees'
 		  uri.query = [ id: eventId, user_key:enUser, app_key: enApp, only_display: 'first_name,last_name,email' ]
@@ -94,7 +94,6 @@ def getAttendees(eventId) {
 getEventIds()
 	.flatMap { eventId -> getAttendees(eventId) } 
 	.distinct { it.email }
-	.take(1)
 	.subscribe mailSender
 
 
