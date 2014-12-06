@@ -16,6 +16,8 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 # News
 
+Google runs new captcha - reCAPTCHA. [**Read**](https://www.google.com/recaptcha/intro/index.html)
+
 CoreOS feels Docker's process model is fundamentally flawed and launches Rocket. [**Read**](utm_content=buffer9a56f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 Java Inventor James Gosling joins Jelastic!
