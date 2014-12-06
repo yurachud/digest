@@ -31,8 +31,9 @@ def html = new Markdown4jProcessor().process(markdownTemplate)
 
 def sendgrid = new SendGrid("latcraft", sgPassword)
 def mailSender = { recipient ->
+		def recipientEmail = "eduards.sizovs@gmail.com"
 		def email = new SendGrid.Email(
-			to: [ DESTINATION_EMAIL_MUST_BE_HERE ], 
+			to: [ recipientEmail ], 
 			from: "digest@latcraft.lv",
 			fromName: "LatCraft Digest",
 			subject: "Monthly Digest",
@@ -43,7 +44,7 @@ def mailSender = { recipient ->
 		email.addSubstitution "pixies/", "https://raw.githubusercontent.com/latcraft/digest/master/$dir/pixies/"
 
 		def response = sendgrid.send(email)
-		println "Sending email to $recipient.email -> $response.code / $response.message"
+		println "Sending email to $recipientEmail -> $response.code / $response.message"
 }		
 
 def getEventIds() {
@@ -93,6 +94,7 @@ def getAttendees(eventId) {
 getEventIds()
 	.flatMap { eventId -> getAttendees(eventId) } 
 	.distinct { it.email }
+	.take(1)
 	.subscribe mailSender
 
 

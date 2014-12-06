@@ -40,8 +40,6 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 
 # Where 2 Go
 
-### ![](pixies/lv_flag.png) [LatCraft](http://latcraft.lv) 06.01.2015
-
 ### ![](pixies/lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
 
 ### ![](pixies/lt_flag.png) [High Load Strategy Conference](http://www.highloadstrategy.lt/) 30.01.2015
@@ -67,3 +65,5 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 ### **Always yours,**
 
 ![](pixies/latcraft.png)
+
+---
