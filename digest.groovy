@@ -1,7 +1,7 @@
 @Grab('org.codehaus.groovy.modules.http-builder:http-builder:0.7.1')
 import groovyx.net.http.*
 
-@Grab('com.netflix.rxjava:rxjava-groovy:0.20.7')
+@Grab('com.netflix.rxjava:rxjava-groovy:0.14.0')
 import rx.Observable
 
 @Grab('com.sendgrid:sendgrid-java:2.0.0')
@@ -13,35 +13,26 @@ import org.markdown4j.Markdown4jProcessor
 import static groovyx.net.http.ContentType.*
 import static groovyx.net.http.Method.*
 
-date = System.getProperty("date")
-if (!date) {
-	throw new IllegalStateException("Please specify -Ddate arg")
+def arg(name, defaultValue = "") {
+	def value = System.getProperty(name, defaultValue)
+	if (!value) {
+		throw new IllegalStateException("Please specify -D$name arg")
+	}
+	value
 }
 
-enUser = System.getProperty("enUser")
-if (!enUser) {
-	throw new IllegalStateException("Please evernote user with -DenUser arg")
-}
+dir = arg "dir"
+enUser = arg "enUser"
+enApp = "6IIT5ER4SCCJYJL36Y"
+sgPassword = arg "sgPassword"
 
-enApp = System.getProperty("enApp")
-if (!enApp) {
-	throw new IllegalStateException("Please evernote app key with -DenApp arg")
-}
-
-sgPassword = System.getProperty("sgPassword")
-if (!sgPassword) {
-	throw new IllegalStateException("Please SendGrid password with -DsgPassword arg")
-}
-
-realMode = System.getProperty("realMode", false)
-
-def markdownTemplate = new File("$date/digest.md")
+def markdownTemplate = new File("$dir/digest.md")
 def html = new Markdown4jProcessor().process(markdownTemplate)
 
 def sendgrid = new SendGrid("latcraft", sgPassword)
 def mailSender = { recipient ->
 		def email = new SendGrid.Email(
-			to: [ realMode ? recipient.email : "eduards.sizovs@gmail.com" ], 
+			to: [ DESTINATION_EMAIL_MUST_BE_HERE ], 
 			from: "digest@latcraft.lv",
 			fromName: "LatCraft Digest",
 			subject: "Monthly Digest",
@@ -49,7 +40,7 @@ def mailSender = { recipient ->
 			replyTo: "no-reply@latcraft.lv"
 		)
 		email.addSubstitution "userName", recipient.first_name
-		email.addSubstitution "pixies/", "https://raw.githubusercontent.com/latcraft/digest/master/$date/pixies/"
+		email.addSubstitution "pixies/", "https://raw.githubusercontent.com/latcraft/digest/master/$dir/pixies/"
 
 		def response = sendgrid.send(email)
 		println "Sending email to $recipient.email -> $response.code / $response.message"
@@ -102,9 +93,7 @@ def getAttendees(eventId) {
 getEventIds()
 	.flatMap { eventId -> getAttendees(eventId) } 
 	.distinct { it.email }
-	.take(realMode ? 999999999 : 1) 
 	.subscribe mailSender
-
 
 
 
