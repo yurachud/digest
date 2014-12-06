@@ -33,6 +33,8 @@ JavaScript Beyond the Web in 2014. [**Read**](http://www.sitepoint.com/javascrip
 
 Express.js burned Netflix. [**Read**](http://www.infoq.com/news/2014/12/expressjs-burned-netflix)
 
+SSDs do die, as Linus Torvalds just discovered. [**Read**](http://www.computerworld.com/article/2484998/solid-state-drives/ssds-do-die--as-linus-torvalds-just-discovered.html?page=2)
+
 
 Natural Course of Refactoring – a Refactoring Workflow. [**Read**](http://www.infoq.com/articles/natural-course-refactoring)
 
