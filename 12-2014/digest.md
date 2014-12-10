@@ -5,13 +5,15 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 # Entertainment 
 
-[How to get things done](sideproject.jpg)
+[How to get things done](pixies/sideproject.jpg)
 
 [Redundancy](http://devopsreactions.tumblr.com/post/102352504591/redundancy)
 
 [Writing Reports](http://devopsreactions.tumblr.com/post/103112947873/writing-reports)
 
 [Manager-Snowflake](http://www.slideshare.net/SlavaPankratov/ss-535501)
+
+[President Obama on GitHub](https://github.com/PresidentObama?tab=activity)
 
 
 # News
@@ -41,6 +43,8 @@ Natural Course of Refactoring – a Refactoring Workflow. [**Read**](http://www.
 Mesos + Docker Tutorial: How to Build Your Own Framework. [**Read**](https://www.voxxed.com/blog/2014/12/mesos-docker-tutorial-how-to-build-your-own-framework/)
 
 Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowler.com/articles/microservice-testing)
+
+Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/saying-goodbye-to-google-services/)
 
 # Where 2 Go
 
