@@ -13,8 +13,6 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 [Manager-Snowflake](http://www.slideshare.net/SlavaPankratov/ss-535501)
 
-[President Obama on GitHub](https://github.com/PresidentObama?tab=activity)
-
 
 # News
 
