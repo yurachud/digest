@@ -16,6 +16,10 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 # News
 
+JetBrains Upsource 1.0: A New Code Reviewing Tool [**Read**](http://www.infoq.com/news/2014/12/jetbrains-upsource)
+
+HashiCorp Announces Atlas and Receives $10 Million in Funding [**Read**](http://www.infoq.com/news/2014/12/hashicorp_atlas)
+
 Google runs new captcha - reCAPTCHA. [**Read**](https://www.google.com/recaptcha/intro/index.html)
 
 CoreOS feels Docker's process model is fundamentally flawed and launches Rocket. [**Read**](utm_content=buffer9a56f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
