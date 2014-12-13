@@ -62,6 +62,11 @@ Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/say
 [![](pixies/mymamo.jpg)](http://www.amazon.co.uk/Mythical-Man-month-Essays-Software-Engineering/dp/0201835959)
 
 
+# Video of the month
+<a href="http://vimeo.com/43612849">Robert C. Martin - Clean Architecture</a> from <a href="http://vimeo.com/ndcoslo">NDC Conferences</a> on <a href="https://vimeo.com">Vimeo</a>
+
+
+
 # Jobs
 
 ## [**Ask.fm**](http://ask.fm/) is looking for
@@ -76,9 +81,6 @@ Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/say
 - [System Engineer (DevOps)](https://4finance.recruiterbox.com/jobs/fk0y2a/)
 - [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
 - [Helpdesk Specialist](https://4finance.recruiterbox.com/jobs/fk0y2e/)
-
-# Video of the month
-<a href="http://vimeo.com/43612849">Robert C. Martin - Clean Architecture</a> from <a href="http://vimeo.com/ndcoslo">NDC Conferences</a> on <a href="https://vimeo.com">Vimeo</a>
 
 
 ---
