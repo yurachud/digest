@@ -56,6 +56,12 @@ Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/say
 
 ### ![](pixies/lv_flag.png) [TechChill Baltics 2015](http://tcbaltics.com/) 10.02.2015
 
+
+
+# Book of the month
+[![](pixies/mymamo.jpg)](http://www.amazon.co.uk/Mythical-Man-month-Essays-Software-Engineering/dp/0201835959)
+
+
 # Jobs
 
 ## [**Ask.fm**](http://ask.fm/) is looking for
@@ -71,9 +77,13 @@ Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/say
 - [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
 - [Helpdesk Specialist](https://4finance.recruiterbox.com/jobs/fk0y2e/)
 
+# Video of the month
+<iframe src="//player.vimeo.com/video/43612849" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/43612849">Robert C. Martin - Clean Architecture</a> from <a href="http://vimeo.com/ndcoslo">NDC Conferences</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 ---
 ### **Always yours,**
 
-![](pixies/latcraft.png)
+[![](pixies/latcraft.png)](http://www.latcraft.lv)
 
 ---
