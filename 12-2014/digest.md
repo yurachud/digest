@@ -65,7 +65,7 @@ Distributed systems for fun and profit. [**Read**](http://book.mixu.net/distsys/
 
 
 # Video of the month
-<a href="http://vimeo.com/43612849">Robert C. Martin - Clean Architecture</a> from <a href="http://vimeo.com/ndcoslo">NDC Conferences</a> on <a href="https://vimeo.com">Vimeo</a>
+<a href="http://www.infoq.com/presentations/apache-spark-big-data">Matei Zaharia  - Unified Big Data Processing with Apache Spark</a> from <a href="https://qconsf.com/presentation/unified-big-data-processing-apache-spark">Qcon San Francisco</a>
 
 
 
