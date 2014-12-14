@@ -48,6 +48,8 @@ Testing Strategies in a Microservice Architecture. [**Read**](http://martinfowle
 
 Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/saying-goodbye-to-google-services/)
 
+Distributed systems for fun and profit. [**Read**](http://book.mixu.net/distsys/single-page.html)
+
 # Where 2 Go
 
 ### ![](pixies/lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
