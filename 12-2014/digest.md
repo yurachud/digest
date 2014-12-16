@@ -13,6 +13,8 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 [Manager-Snowflake](http://www.slideshare.net/SlavaPankratov/ss-535501)
 
+[Multithreaded Programming Has Really Gone To The Dogs](http://highscalability.com/blog/2014/12/16/multithreaded-programming-has-really-gone-to-the-dogs.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+HighScalability+%28High+Scalability%29)
+
 
 # News
 
