@@ -35,6 +35,8 @@ GridGain Becomes Apache Ignite. [**Read**](http://www.infoq.com/news/2014/12/gri
 
 # Curious and Useful
 
+ThoughtWorks Technology Radar. [**Read**](http://www.thoughtworks.com/radar)
+
 JavaScript Beyond the Web in 2014. [**Read**](http://www.sitepoint.com/javascript-beyond-web-2014/)
 
 Express.js burned Netflix. [**Read**](http://www.infoq.com/news/2014/12/expressjs-burned-netflix)
