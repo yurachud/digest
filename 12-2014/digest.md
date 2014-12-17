@@ -54,6 +54,9 @@ Saying Goodbye to Google Services. [**Read**](http://danielmiessler.com/blog/say
 
 Distributed systems for fun and profit. [**Read**](http://book.mixu.net/distsys/single-page.html)
 
+10 Reasons why you should NOT write unit test cases!
+ [**Read**](http://www.javacodegeeks.com/2013/10/10-reasons-why-you-should-not-write-unit-test-cases.html)
+
 # Where 2 Go
 
 ### ![](pixies/lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
