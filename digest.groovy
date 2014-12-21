@@ -96,7 +96,6 @@ def getAttendees(eventId) {
 
 getEventIds()
 	.flatMap { eventId -> getAttendees(eventId) } 
-	.take(1)
 	.distinct { it.email }
 	.subscribe mailSender
 
