@@ -1,7 +1,7 @@
 
 # Hei userName!
 
-This is a news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
+This is a [community-driven](https://github.com/latcraft/digest) news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
 
 
 # Entertainment 
@@ -95,7 +95,8 @@ This is a news pack for LatCraft community members comprising of interesting mat
 - [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
 - [Helpdesk Specialist](https://4finance.recruiterbox.com/jobs/fk0y2e/)
 
+#&nbsp;
 
-<a target="_blank" href="http://www.latcraft.lv"><div style="text-align:center" ><img src="pixies/logo.png"></a></div></a>
+![](pixies/logo.png)
 
 ---
