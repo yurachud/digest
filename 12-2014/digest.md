@@ -75,10 +75,8 @@ This is a news pack for LatCraft community members comprising of interesting mat
 
 
 # Videos of the month
-* <a href="http://www.infoq.com/presentations/apache-spark-big-data">Matei Zaharia  - Unified Big Data Processing with Apache Spark</a> from <a href="https://qconsf.com/presentation/unified-big-data-processing-apache-spark">Qcon San Francisco</a>
-* <a href="http://www.infoq.com/presentations/spark-scala-mapreduce-java">Dean Wampler - Why Spark Is the Next Top (Compute) Model
-</a> from <a href="https://qconsf.com/presentation/unified-big-data-processing-apache-spark">BigDataEverywhere</a>
-
+* [Matei Zaharia  - Unified Big Data Processing with Apache Spark](http://www.infoq.com/presentations/apache-spark-big-data)
+* [Dean Wampler - Why Spark Is the Next Top (Compute) Model](http://www.infoq.com/presentations/spark-scala-mapreduce-java)
 
 
 # Jobs
