@@ -1,4 +1,5 @@
-Hei userName!
+
+# Hei userName!
 
 This is a news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
 
@@ -95,9 +96,6 @@ This is a news pack for LatCraft community members comprising of interesting mat
 - [Helpdesk Specialist](https://4finance.recruiterbox.com/jobs/fk0y2e/)
 
 
----
-### **Always yours,**
-
-[![](pixies/latcraft.png)](http://www.latcraft.lv)
+<a target="_blank" href="http://www.latcraft.lv"><div style="text-align:center" ><img src="pixies/logo.png"></a></div></a>
 
 ---

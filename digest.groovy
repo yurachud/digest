@@ -27,7 +27,10 @@ enApp = "6IIT5ER4SCCJYJL36Y"
 sgPassword = arg "sgPassword"
 
 def markdownTemplate = new File("$dir/digest.md")
-def html = new Markdown4jProcessor().process(markdownTemplate)
+def html = new Markdown4jProcessor()
+	.addHtmlAttribute("style", "color: #878787", "p")
+	.addHtmlAttribute("style", "color: #0090c5", "a")
+	.process(markdownTemplate)
 
 def sendgrid = new SendGrid("latcraft", sgPassword)
 def mailSender = { recipient ->
@@ -93,6 +96,7 @@ def getAttendees(eventId) {
 
 getEventIds()
 	.flatMap { eventId -> getAttendees(eventId) } 
+	.take(1)
 	.distinct { it.email }
 	.subscribe mailSender
 
