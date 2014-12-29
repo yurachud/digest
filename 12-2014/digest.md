@@ -57,6 +57,8 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 * 10 Reasons why you should NOT write unit test cases!
  [**Read**](http://www.javacodegeeks.com/2013/10/10-reasons-why-you-should-not-write-unit-test-cases.html)
 
+* Revitalise your CV Beautiful, simple resume editing tool. [**Read**](http://cvtalize.com)
+
 # Where 2 Go
 
 * ### ![](pixies/lv_flag.png) [Riga Dev Day](http://rigadevday.lv/) 22.01.2015
