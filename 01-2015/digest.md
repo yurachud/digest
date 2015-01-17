@@ -21,6 +21,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 * Inside Datadogs Tech Stack. [**Read**](http://blog.underdog.io/post/107602021862/inside-datadogs-tech-stack)
 * Performance Dashboard at StackExchange. [**Read**](http://stackexchange.com/performance)
 * The Ultimate Guide: 5 Methods For Debugging Production Servers At Scale. [**Read**](http://highscalability.com/blog/2015/1/7/the-ultimate-guide-5-methods-for-debugging-production-server.html)
+* Ex-Googler: 'Tons Of Engineers' Want To Leave Google. [**Read**](http://finance.yahoo.com/news/ex-googler-tons-engineers-want-160246466.html)
 * Why Reactive? on the example of iOS library. [**Read**](http://www.sprynthesis.com/2014/06/15/why-reactivecocoa)
 
 
