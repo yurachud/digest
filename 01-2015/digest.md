@@ -17,7 +17,12 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 # Curious and Useful
 
 
-* The RedMonk Programming Language Rankings: January 2015 [**Read**](http://redmonk.com/sogrady/2015/01/14/language-rankings-1-15/)
+* The RedMonk Programming Language Rankings: January 2015. [**Read**](http://redmonk.com/sogrady/2015/01/14/language-rankings-1-15/)
+* Inside Datadogs Tech Stack. [**Read**](http://blog.underdog.io/post/107602021862/inside-datadogs-tech-stack)
+* Performance Dashboard at StackExchange. [**Read**](http://stackexchange.com/performance)
+* The Ultimate Guide: 5 Methods For Debugging Production Servers At Scale. [**Read**](http://highscalability.com/blog/2015/1/7/the-ultimate-guide-5-methods-for-debugging-production-server.html)
+* Why Reactive? on the example of iOS library. [**Read**](http://www.sprynthesis.com/2014/06/15/why-reactivecocoa)
+
 
 
 # Where 2 Go
@@ -35,6 +40,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 
 # Videos of the month
+AWS Innovation at Scale. [**Watch**](https://www.youtube.com/watch?v=JIQETrFC_SQ)
 
 
 
