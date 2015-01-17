@@ -36,6 +36,8 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 # Curious and Useful
 
+* Win 150$ value AWS coupon by beating 2nd Cloudopoly challenge!
+
 * Brand new ThoughtWorks Technology Radar. [**Read**](http://www.thoughtworks.com/radar)
 
 * JavaScript Beyond the Web in 2014. [**Read**](http://www.sitepoint.com/javascript-beyond-web-2014/)
@@ -95,7 +97,6 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 ### [**4finance**](http://www.4financeit.com) is looking for
 - [System Engineer (DevOps)](https://4finance.recruiterbox.com/jobs/fk0y2a/)
 - [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
-- [Helpdesk Specialist](https://4finance.recruiterbox.com/jobs/fk0y2e/)
 
 #&nbsp;
 

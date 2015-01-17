@@ -34,7 +34,7 @@ def html = new Markdown4jProcessor()
 
 def sendgrid = new SendGrid("latcraft", sgPassword)
 def mailSender = { recipient ->
-		def recipientEmail = "eduards.sizovs@gmail.com"
+		def recipientEmail = recipient.email
 		def email = new SendGrid.Email(
 			to: [ recipientEmail ], 
 			from: "digest@latcraft.lv",
