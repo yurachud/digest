@@ -41,7 +41,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 
 # Book of the month
-
+* [Management 3.0 Workout](http://www.management30.com/workouts/) (get free text-version by subscribing to Jurgen Appello's mailing list)
 
 
 
