@@ -6,6 +6,12 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 # Entertainment 
 
+* [Deploying a cluster](http://devopsreactions.tumblr.com/post/107492619940/deploying-a-cluster)
+* [Using cat instead of tail](http://devopsreactions.tumblr.com/post/107303166289/using-cat-instead-of-tail)
+* [git rebase origin/master](https://pbs.twimg.com/tweet_video/B7fCnFBIQAAcnjx.mp4)
+* [How a junior feels during a code review](http://devopsreactions.tumblr.com/post/88653874397/how-a-junior-feels-during-a-code-review)
+* [Friday deployments (and leaving afterwards)](http://devopsreactions.tumblr.com/post/87284390953/friday-deployments-and-leaving-afterwards)
+* [Junior devop to senior devop](http://devopsreactions.tumblr.com/post/40166795141/junior-devop-to-senior-devop)
 
 
 # News
