@@ -16,6 +16,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 # News
 
+* Pivotal Pulls Groovy/Grails Funding. [**Read**](http://www.infoq.com/news/2015/01/Pivotal-Pulls-Groovy-Grails-Fund)
 
 
 
