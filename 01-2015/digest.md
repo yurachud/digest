@@ -12,6 +12,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 * [How a junior feels during a code review](http://devopsreactions.tumblr.com/post/88653874397/how-a-junior-feels-during-a-code-review)
 * [Friday deployments (and leaving afterwards)](http://devopsreactions.tumblr.com/post/87284390953/friday-deployments-and-leaving-afterwards)
 * [Junior devop to senior devop](http://devopsreactions.tumblr.com/post/40166795141/junior-devop-to-senior-devop)
+* [Developers born brave](http://www.techmynd.com/wp-content/uploads/2008/10/developer-born-brave1.jpg)
 
 
 # News
