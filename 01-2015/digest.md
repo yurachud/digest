@@ -18,6 +18,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 # News
 
 * Pivotal Pulls Groovy/Grails Funding. [**Read**](http://www.infoq.com/news/2015/01/Pivotal-Pulls-Groovy-Grails-Fund)
+* Instagram Strategy To Radically Reduce Traffic: Kill All The Spambots. [**Read**](http://highscalability.com/blog/2015/1/28/instagram-strategy-to-radically-reduce-traffic-kill-all-the.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+HighScalability+%28High+Scalability%29)
 
 
 
