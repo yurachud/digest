@@ -19,7 +19,8 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 * Pivotal Pulls Groovy/Grails Funding. [**Read**](http://www.infoq.com/news/2015/01/Pivotal-Pulls-Groovy-Grails-Fund)
 * Instagram Strategy To Radically Reduce Traffic: Kill All The Spambots. [**Read**](http://highscalability.com/blog/2015/1/28/instagram-strategy-to-radically-reduce-traffic-kill-all-the.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+HighScalability+%28High+Scalability%29)
-
+* Amazon EC2 Gains Two-Minute Warning for Spot Instance Termination. [**Read**](http://www.infoq.com/news/2015/01/ec2-spot-termination-notices)
+* Raspberry Pi 2 is way more powerful, still just $35, and available now [**Read**](http://www.theverge.com/2015/2/2/7954617/raspberry-pi-2-announced-on-sale)
 
 
 
