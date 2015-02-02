@@ -34,6 +34,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 * Ex-Googler: 'Tons Of Engineers' Want To Leave Google. [**Read**](http://finance.yahoo.com/news/ex-googler-tons-engineers-want-160246466.html)
 * Why Reactive? on the example of iOS library. [**Read**](http://www.sprynthesis.com/2014/06/15/why-reactivecocoa)
 * Command-line tools can be 235x faster than your Hadoop cluster [**Read**](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+* 16 Things to invest to [**Read**](http://a16z.com/2015/01/22/16-things/)
 
 
 
