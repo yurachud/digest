@@ -38,7 +38,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 * 16 Things to invest to [**Read**](http://a16z.com/2015/01/22/16-things/)
 * 9 Things Your Chatbot Should Do For You [**Read**](http://blog.hellosign.com/9-things-your-chatbot-should-do-for-you/)
 * Pay People a Fair Salary Using a Transparent Salary Formula [**Read**](https://medium.com/@jurgenappelo/pay-people-a-fair-salary-using-a-transparent-salary-formula-8d81df8e1de6)
-
+* What Type of Learner Are You? [**Read**](http://modern-apprenticeship.8thlight.com/featured/2015/02/02/types-of-learners/)
 
 
 # Where 2 Go
