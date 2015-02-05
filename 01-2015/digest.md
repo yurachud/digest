@@ -62,13 +62,6 @@ AWS Innovation at Scale. [**Watch**](https://www.youtube.com/watch?v=JIQETrFC_SQ
 
 # Jobs
 
-### [**Ask.fm**](http://ask.fm/) is looking for
-
-- [Senior Java Developer](http://www.likeit.lv/job/askfm/senior-java-developer/3359/?search=ask.fm)
-- [Senior Ruby on Rails Developer](http://www.likeit.lv/job/askfm/senior-ruby-on-rails-developer/3360/?search=ask.fm)
-- [Front-End Developer](http://www.likeit.lv/job/askfm/front-end-developer/3361/?search=ask.fm)
-- [QA Automation Engineer](http://www.likeit.lv/job/askfm/automation-qa-engineer/3362/?search=ask.fm)
-
 ### [**4finance**](http://www.4financeit.com) is looking for
 - [System Engineer (DevOps)](https://4finance.recruiterbox.com/jobs/fk0y2a/)
 - [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
