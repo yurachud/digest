@@ -56,7 +56,7 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 
 
 # Videos of the month
-AWS Innovation at Scale. [**Watch**](https://www.youtube.com/watch?v=JIQETrFC_SQ)
+* AWS Innovation at Scale. [**Watch**](https://www.youtube.com/watch?v=JIQETrFC_SQ)
 
 
 
