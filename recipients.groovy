@@ -70,15 +70,3 @@ Observable.merge(
 	.distinct { it }
 	.filter { !!it }
 	.subscribe { println it }
-
-
-
-
-
-
-
-
- 
-
-
-

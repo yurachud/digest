@@ -30,7 +30,7 @@ def eventbriteAttendees() {
 		  }
 		} 
   }.flatMap { response -> 
-  	Observable.from(response.events*.event) 
+  	Observable.from(response.events*.event)
   }.flatMap { event -> 
 	Observable.create { observer ->
 			eventbrite.request( GET, JSON ) {
@@ -62,6 +62,19 @@ def websiteSubscribers() {
 }
 
 
+def getAttendees(eventId) {
+    	eventbrite = new HTTPBuilder('https://www.eventbrite.com')
+		eventbrite.request( GET, JSON ) {
+		  uri.path = '/json/event_list_attendees'
+		  uri.query = [ id: eventId, user_key:eventbrite_userKey, app_key: eventbrite_appKey, only_display: 'email' ]
+
+		  response.success = { _, json ->
+		  	return json.attendees*.attendee.email
+		  }
+		} 
+}
+
+// def awsAttendess = getAttendees('16021570950')
 
 Observable.merge(
 	eventbriteAttendees(),
@@ -69,6 +82,7 @@ Observable.merge(
 )
 	.distinct { it }
 	.filter { !!it }
+	// .filter { !awsAttendess.contains(it)}
 	.subscribe { println it }
 
 

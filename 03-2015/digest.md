@@ -1,12 +1,11 @@
 
 # Hei there!
 
-This is a [community-driven](https://github.com/latcraft/digest) news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
-
+We're here to invite you to special AWS Day organised by LatCraft!yo - This is a [community-driven](https://github.com/latcraft/digest) news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!F
 
 # Entertainment 
 
-* 
+* [Dicks by Email](http://dicksbymail.com/)
 
 # News
 
@@ -47,9 +46,3 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 ### [**4finance**](http://www.4financeit.com) is looking for
 - [System Engineer (DevOps)](https://4finance.recruiterbox.com/jobs/fk0y2a/)
 - [Java Developer](https://4finance.recruiterbox.com/jobs/fk0y2g)
-
-#&nbsp;
-
-![](pixies/logo.png)
-
----
