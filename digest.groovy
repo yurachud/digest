@@ -33,8 +33,7 @@ def html = new Markdown4jProcessor()
 	.process(markdownTemplate)
 
 def sendgrid = new SendGrid("latcraft", sgPassword)
-def mailSender = { recipient ->
-		def recipientEmail = recipient.email
+def mailSender = { recipientEmail ->
 		def email = new SendGrid.Email(
 			to: [ recipientEmail ], 
 			from: "digest@latcraft.lv",
@@ -43,7 +42,6 @@ def mailSender = { recipient ->
 			html: html,
 			replyTo: "no-reply@latcraft.lv"
 		)
-		email.addSubstitution "userName", recipient.first_name
 		email.addSubstitution "pixies/", "https://raw.githubusercontent.com/latcraft/digest/master/$dir/pixies/"
 
 		def response = sendgrid.send(email)
@@ -78,7 +76,7 @@ def getAttendees(eventId) {
     	eventbrite = new HTTPBuilder('https://www.eventbrite.com')
 		eventbrite.request( GET, JSON ) {
 		  uri.path = '/json/event_list_attendees'
-		  uri.query = [ id: eventId, user_key:enUser, app_key: enApp, only_display: 'first_name,last_name,email' ]
+		  uri.query = [ id: eventId, user_key:enUser, app_key: enApp, only_display: 'email' ]
 
 		  response.success = { _, json ->
 		  	observer.onNext(json)
@@ -89,14 +87,35 @@ def getAttendees(eventId) {
       observer.onError(t)
     }
   }
-  .flatMap { response -> Observable.from(response.attendees*.attendee)  }
+  .flatMap { response -> Observable.from(response.attendees*.attendee.email)  }
+}
+
+def getSubscribers() {
+  observable = Observable
+  .create { observer ->
+    try {
+    	eventbrite = new HTTPBuilder('https://radiant-fire-3288.firebaseio.com')
+		eventbrite.request( GET, JSON ) {
+		  uri.path = '/subscribers.json'
+		  response.success = { _, json ->
+		  	observer.onNext(json)
+		  	observer.onCompleted()
+		  }
+		} 
+    } catch (Throwable t) {
+      observer.onError(t)
+    }
+  }
+  .flatMap { response -> Observable.from(response*.value)  }	
 }
 
 
 
-getEventIds()
-	.flatMap { eventId -> getAttendees(eventId) } 
-	.distinct { it.email }
+Observable.merge(
+	getEventIds().flatMap { eventId -> getAttendees(eventId) },
+	getSubscribers()
+)
+	.distinct { it }
 	.subscribe mailSender
 
 

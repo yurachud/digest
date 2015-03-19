@@ -1,5 +1,5 @@
 
-# Hei userName!
+# Hei there!
 
 This is a [community-driven](https://github.com/latcraft/digest) news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
 
