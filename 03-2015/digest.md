@@ -1,7 +1,11 @@
 
 # Hei there!
 
-This is a [community-driven](https://github.com/latcraft/digest) news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. Enjoy!
+This is a [community-driven](https://github.com/latcraft/digest) news pack for LatCraft community members comprising of interesting materials, the most important last-month happenings and upcoming events. 
+
+Join us @ [FaceBook](https://www.facebook.com/groups/latcraft/), [LinkedIn](https://www.linkedin.com/groups/LatCraft-8187430) and [Twitter](https://twitter.com/latcraft) to stay in the loop.
+
+Enjoy!
 
 # Entertainment 
 
@@ -9,13 +13,14 @@ This is a [community-driven](https://github.com/latcraft/digest) news pack for L
 * [Senior Meets New Hire](http://devopsreactions.tumblr.com/post/114484167267/senior-meets-the-new-hire)
 * [Principal Developer's Commits](http://devopsreactions.tumblr.com/post/114035411754/principal-developers-commits)
 * [Dicks by Email](http://dicksbymail.com/)
-* [Шокирующее интервью: История создания Яндекс.Транспорт
+* [Shocking Interview: Yandex.Transport Success Revealed!
 ](https://www.youtube.com/watch?v=1AfBRoNmWng)
 * [CodeBabes](https://codebabes.com/courses)
 
 # News
 
 * **LatCraft On Air** has been launched [**Attend**](https://www.youtube.com/watch?v=eWgHD8VcDCg&feature=youtu.be)
+* Principles Of Reactive Programming course has started [**Attend**](https://www.coursera.org/course/reactive)
 * Microsoft is killing off the Internet Explorer brand [**Read**](http://www.theverge.com/2015/3/17/8230631/microsoft-is-killing-off-the-internet-explorer-brand)
 * Algorithmia Launches With More Than 800 Algorithms On Its Marketplace [**Read**](http://techcrunch.com/2015/03/12/algorithmia-launches-with-more-than-800-algorithms-on-its-marketplace/)
 * Why Bankers Are Leaving Finance for No-Salary Tech Jobs [**Read**](http://www.bloomberg.com/news/articles/2015-03-15/bankers-embracing-zero-salary-in-tech-may-make-peers-obsolete)
