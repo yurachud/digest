@@ -20,9 +20,9 @@ groovy <parameters> collect_recipients.groovy > recipients.txt
 ```
 
 ### Required parameters
-`-Deventbrite.userKey` - User Key for accessing Eventbrite available [here](https://github.com/latcraft/passwords)
+`-Deventbrite.userKey` - User Key for accessing Eventbrite
  
-`-Deventbrite.appKey` - App Key for accessing Eventbrite available [here](https://github.com/latcraft/passwords)
+`-Deventbrite.appKey` - App Key for accessing Eventbrite
 
 ### Optional parameters
 `-Dskip.event` - if specified, does not collect members of the given event 
@@ -44,3 +44,6 @@ groovy <parameters> sender.groovy < recipients.txt
 `-Demail.from` - sender email (normally `hello@latcraft.lv`)
 
 `-Demail.subject` - email subject
+
+# Misc
+Access credentials can be obtained [here](https://github.com/latcraft/passwords).
