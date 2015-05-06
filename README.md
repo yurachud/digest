@@ -13,7 +13,7 @@ groovy <parameters>  markdown2html.groovy > body.html
 ### Required parameters
 `-Dtemplate` - relative path to markdown template
 
-## 2. Collect recipients and store the list in a file
+## 2. Collect and store recipients in a file
 
 ```
 groovy <parameters> collect_recipients.groovy > recipients.txt
@@ -28,7 +28,7 @@ groovy <parameters> collect_recipients.groovy > recipients.txt
 `-Dskip.event` - if specified, does not collect members of the given event 
  
 
-## 3. Send email to recepients
+## 3. Send email to recipients
 ```
 groovy <parameters> sender.groovy < recipients.txt
 ```
