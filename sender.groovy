@@ -14,23 +14,28 @@ def arg(name) {
 sendgrid_user = arg "sendgrid.user"
 sendgrid_password = arg "sendgrid.password"
 
-email_to = arg "email.to"
 email_from = arg "email.from"
 email_subject = arg "email.subject"
+email_body = arg "email.body"
 
 def sendgrid = new SendGrid(sendgrid_user, sendgrid_password)
 
-def email = new SendGrid.Email(
-	to: [ email_to ], 
-	from: email_from,
-	fromName: "Latvian Software Craftsmanship Community",
-	subject: email_subject,
-	html: System.in.text,
-	replyTo: "no-reply@latcraft.lv"
-)
+System.in.eachLine() { emailTo ->  
+	def email = new SendGrid.Email(
+		to: [ emailTo ], 
+		from: email_from,
+		fromName: "Latvian Software Craftsmanship Community",
+		subject: email_subject,
+		html: new File(email_body).text,
+		replyTo: "no-reply@latcraft.lv"
+	)
 
-def response = sendgrid.send(email)
-println "Sending email to $email_to -> $response.code / $response.message"
+	def response = sendgrid.send(email)
+	println "Sending email to $emailTo -> $response.code / $response.message"
+
+} 
+
+
 
 
 

@@ -16,6 +16,7 @@ def arg(name) {
 
 eventbrite_userKey = arg "eventbrite.userKey"
 eventbrite_appKey = arg "eventbrite.appKey"
+eventToSkip = System.getProperty("skip.event")
 
 def eventbriteAttendees() {
   eventbrite = new HTTPBuilder('https://www.eventbrite.com')
@@ -30,7 +31,8 @@ def eventbriteAttendees() {
 		  }
 		} 
   }.flatMap { response -> 
-  	Observable.from(response.events*.event)
+  	Observable
+  		.from(response.events*.event)
   }.flatMap { event -> 
 	Observable.create { observer ->
 			eventbrite.request( GET, JSON ) {
@@ -74,7 +76,9 @@ def getAttendees(eventId) {
 		} 
 }
 
-// def awsAttendess = getAttendees('16021570950')
+if (eventToSkip) {
+	attendessToSkip = getAttendees(eventToSkip)
+}
 
 Observable.merge(
 	eventbriteAttendees(),
@@ -82,7 +86,7 @@ Observable.merge(
 )
 	.distinct { it }
 	.filter { !!it }
-	// .filter { !awsAttendess.contains(it)}
+	.filter { !eventToSkip || !attendessToSkip.contains(it)}
 	.subscribe { println it }
 
 
