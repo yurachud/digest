@@ -1,13 +1,10 @@
 @Grab('com.sendgrid:sendgrid-java:2.0.0')
 import com.sendgrid.*
 
-@Grab('com.netflix.rxjava:rxjava-groovy:0.14.0')
-import rx.Observable
+import static java.util.Objects.requireNonNull
 
-import static java.util.Objects.*
-
-def arg(name) {
-	def value = System.getProperty(name)
+def arg(String name, String defaultValue = null) {
+	def value = System.getProperty(name, defaultValue)
 	requireNonNull(value, "Please specify -D$name arg")
 }
 
@@ -18,22 +15,25 @@ email_from = arg "email.from"
 email_subject = arg "email.subject"
 email_body = arg "email.body"
 
+calendar_events = [arg("calendar", "")].findAll({ !it.isEmpty() }).collect({ new File(it) })
+
 def sendgrid = new SendGrid(sendgrid_user, sendgrid_password)
 
-System.in.eachLine() { emailTo ->  
+System.in.eachLine() { emailTo ->
 	def email = new SendGrid.Email(
-		to: [ emailTo ], 
+		to: [ emailTo ],
 		from: email_from,
 		fromName: "Latvian Software Craftsmanship Community",
 		subject: email_subject,
 		html: new File(email_body).text,
-		replyTo: "no-reply@latcraft.lv"
+		replyTo: "no-reply@latcraft.lv",
+		attachments: calendar_events.collectEntries { [it.name, new FileInputStream(it)] }
 	)
 
 	def response = sendgrid.send(email)
 	println "Sending email to $emailTo -> $response.code / $response.message"
 
-} 
+}
 
 
 
@@ -41,7 +41,7 @@ System.in.eachLine() { emailTo ->
 
 
 
- 
+
 
 
 
