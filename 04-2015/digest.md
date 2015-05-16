@@ -24,15 +24,15 @@ Enjoy!
 # Curious and Useful
 * We Tested How Googlebot Crawls Javascript And Here’s What We Learned
  [**Read**](http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157)
- * Why AP/CP isn't useful for database classification [**Read**](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
- * Backlogs are not waste if you treat them as wishlists not to-do lists [**Read**](http://noop.nl/2015/05/backlogs-are-not-waste.html)
- * Reddit sharing its company culture [**Read**](http://www.redditblog.com/2015/05/were-sharing-our-companys-core-values.html)
- * Why Coding Is Your Child’s Key to Unlocking the Future [**Read**](http://www.wsj.com/articles/why-coding-is-your-childs-key-to-unlocking-the-future-1430080118?KEYWORDS%3Fmod=e2fb)
- * Using Storytelling in Organizational Change [**Read**](http://www.infoq.com/articles/storytelling-organizational-change)
+* Why AP/CP isn't useful for database classification [**Read**](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+* Backlogs are not waste if you treat them as wishlists not to-do lists [**Read**](http://noop.nl/2015/05/backlogs-are-not-waste.html)
+* Reddit sharing its company culture [**Read**](http://www.redditblog.com/2015/05/were-sharing-our-companys-core-values.html)
+* Why Coding Is Your Child’s Key to Unlocking the Future [**Read**](http://www.wsj.com/articles/why-coding-is-your-childs-key-to-unlocking-the-future-1430080118?KEYWORDS%3Fmod=e2fb)
+* Using Storytelling in Organizational Change [**Read**](http://www.infoq.com/articles/storytelling-organizational-change)
 * Amazon CTO Werner Vogels Shares Nine Patterns of Cloud Adoption [**Read**](http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption)
 * Mature Developers [**Read**](http://squeakyvessel.com/2015/05/12/mature-developers/)
 * Failure to launch: Hadoop will be 'anaemic' for years, says Gartner [**Read**](http://www.theregister.co.uk/2015/05/13/hadoop_two_years_of_anaemia/?mt=1431807053422)
- * Google Says No to More End-to-End Tests [**Read**](http://googletesting.blogspot.co.uk/2015/04/just-say-no-to-more-end-to-end-tests.html)
+* Google Says No to More End-to-End Tests [**Read**](http://googletesting.blogspot.co.uk/2015/04/just-say-no-to-more-end-to-end-tests.html)
 * Google systems guru explains why containers are the future of computing [**Read**](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 
 
