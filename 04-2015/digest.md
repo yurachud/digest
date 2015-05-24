@@ -13,11 +13,13 @@ Enjoy!
 * A Good Way To Get To Know Your Date [**See**](http://www.humoar.com/wp-content/uploads/2015/02/a-good-way-to-get-to-know-your-date.jpg)
 * Coming Home After Work [**See**](http://devopsreactions.tumblr.com/post/116986728409/coming-home-after-work)
 * Will It Be Redundant? [**See**](http://devopsreactions.tumblr.com/post/116911570154/will-it-be-redundant)
+* Unit Testing [**See**](http://devopsreactions.tumblr.com/post/118852143728/unit-testing)
+* Code Comments [**See**](https://pbs.twimg.com/media/CFjhpkHWEAACwZM.jpg)
+* Life of a Java Programmer [**See**](https://pbs.twimg.com/media/CFeH_8sWMAAgqaW.png)
 
 
 # News
 
-* **LatCraft On Air** website launched [**Go**](latcraft.lv/air)
 * **Introduction to Big Data with Apache Spark** online course starts on 1st of June [**Register**](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x)
 * **ThoughtWorks Radar** May Edition is out [**Read**](http://ej.uz/radarins)
 
@@ -34,6 +36,8 @@ Enjoy!
 * Failure to launch: Hadoop will be 'anaemic' for years, says Gartner [**Read**](http://www.theregister.co.uk/2015/05/13/hadoop_two_years_of_anaemia/?mt=1431807053422)
 * Google Says No to More End-to-End Tests [**Read**](http://googletesting.blogspot.co.uk/2015/04/just-say-no-to-more-end-to-end-tests.html)
 * Google systems guru explains why containers are the future of computing [**Read**](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
+* Blog-Post Driven Development [**Read**](http://blog.estimote.com/post/119525082855/user-stories-on-steroids-how-estimote-uses-blog)
+* Free Cassandra Course by DataStax [**See**](https://academy.datastax.com/courses/)
 
 
 # Where 2 Go
@@ -50,9 +54,13 @@ Enjoy!
 * **@bitfield**: The more monitoring you have, the more trouble you find. If you don’t have monitoring, trouble finds you.
 * **@leanvoices**: At work, everyone thinks they know what the problems are, few know the causes fewer know how to solve and fewer have courage to try.
 
+# Cool mobile apps
+* **FitBrains** - Challenge Your Brain [**Visit**](http://www.fitbrains.com)
+* **Lumosity** - a leader in the science of brain training [**Visit**](http://www.lumosity.com/)
+
 
 # Book of the month
-* [Lean Enterprise: How High Performance Organizations Innovate at Scale ](http://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425) by **Jez Humble**, **Joanne Molesky** and **Barry O'Reilly**
+* [Antifragile: Things That Gain from Disorder](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) by **Nassim Nicholas Taleb**
 
 
 # Videos of the month
