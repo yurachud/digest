@@ -24,8 +24,7 @@ Enjoy!
 * **ThoughtWorks Radar** May Edition is out [**Read**](http://ej.uz/radarins)
 
 # Curious and Useful
-* We Tested How Googlebot Crawls Javascript And Here’s What We Learned
- [**Read**](http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157)
+* We Tested How Googlebot Crawls Javascript And Here Is What We Learned [**Read**](http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157)
 * Why AP/CP isn't useful for database classification [**Read**](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 * Backlogs are not waste if you treat them as wishlists not to-do lists [**Read**](http://noop.nl/2015/05/backlogs-are-not-waste.html)
 * Reddit sharing its company culture [**Read**](http://www.redditblog.com/2015/05/were-sharing-our-companys-core-values.html)
