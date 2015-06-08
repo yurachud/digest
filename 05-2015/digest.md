@@ -3,3 +3,4 @@
 - A JVM written in Scala - https://github.com/lihaoyi/Metascala
 - "Rearchitecting Github Pages" (simple solution web scale story) - http://githubengineering.com/rearchitecting-github-pages/
 - "Deploying branches to Github.com" (Continious delivery practices at Github) - http://githubengineering.com/deploying-branches-to-github-com/
+- Martin Fowler: Monolith first, Microservices later - http://martinfowler.com/bliki/MonolithFirst.html
