@@ -1,2 +1,5 @@
 - Linux Kernel Development Movie - https://www.youtube.com/watch?v=5iFnzr73XXk
 - Death of Agile - https://www.youtube.com/watch?v=vSnCeJEka_s
+- A JVM written in Scala - https://github.com/lihaoyi/Metascala
+- "Rearchitecting Github Pages" (simple solution web scale story) - http://githubengineering.com/rearchitecting-github-pages/
+- "Deploying branches to Github.com" (Continious delivery practices at Github) - http://githubengineering.com/deploying-branches-to-github-com/
