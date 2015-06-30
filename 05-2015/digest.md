@@ -5,3 +5,4 @@
 - "Deploying branches to Github.com" (Continious delivery practices at Github) - http://githubengineering.com/deploying-branches-to-github-com/
 - Martin Fowler: Monolith first, Microservices later - http://martinfowler.com/bliki/MonolithFirst.html
 - Software Craftsmenship Calendar 2016 project on Kickstarter - https://www.kickstarter.com/projects/988315286/software-craftsmanship-calendar-2016
+- Open Container Project - http://www.opencontainers.org/
