@@ -3,6 +3,9 @@
 - A JVM written in Scala - https://github.com/lihaoyi/Metascala
 - "Rearchitecting Github Pages" (simple solution web scale story) - http://githubengineering.com/rearchitecting-github-pages/
 - "Deploying branches to Github.com" (Continious delivery practices at Github) - http://githubengineering.com/deploying-branches-to-github-com/
+- Collection of Software Engineering Blogs - https://github.com/kilimchoi/engineering-blogs and [subscription list](http://www.slicedham.co/)
+- Google, Microsoft, Mozilla And Others Team Up To Launch WebAssembly, A New Binary Format For The Web - http://techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-for-the-web/
 - Martin Fowler: Monolith first, Microservices later - http://martinfowler.com/bliki/MonolithFirst.html
+- Early vs Beggining coders - http://zedshaw.com/2015/06/16/early-vs-beginning-coders/
 - Software Craftsmenship Calendar 2016 project on Kickstarter - https://www.kickstarter.com/projects/988315286/software-craftsmanship-calendar-2016
 - Open Container Project - http://www.opencontainers.org/
