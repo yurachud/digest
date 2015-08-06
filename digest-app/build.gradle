@@ -1,0 +1,46 @@
+buildscript {
+	repositories {
+		mavenCentral()
+		jcenter()
+	}
+	dependencies {
+		classpath 'com.github.jengelman.gradle.plugins:shadow:1.2.2'
+	}
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'application'
+apply plugin: 'com.github.johnrengelman.shadow'
+
+mainClassName = "lv.latcraft.digest.DigestApplication"
+
+jar {
+	baseName = 'digest-app'
+	version = '0.1.0'
+}
+
+repositories {
+	mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+	compile("io.dropwizard:dropwizard-core:0.8.2")
+	compile("io.dropwizard:dropwizard-views:0.8.2")
+	compile("io.dropwizard:dropwizard-views-freemarker:0.8.2")
+	compile("org.codehaus.groovy:groovy-console:2.4.4")
+	compile("com.netflix.rxjava:rxjava-groovy:0.14.0")
+	compile("org.codehaus.groovy.modules.http-builder:http-builder:0.7.1")
+	compile('org.commonjava.googlecode.markdown4j:markdown4j:2.2-cj-1.0')
+	compile('com.sendgrid:sendgrid-java:2.0.0')
+	compile('org.apache.httpcomponents:httpclient:4.3.4')
+
+	testCompile("junit:junit")
+}
+
+task wrapper(type: Wrapper) {
+	gradleVersion = '2.3'
+}
